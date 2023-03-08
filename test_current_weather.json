@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 44.1658,
+    "lat": 44.7839
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "ясно",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 23.33,
+    "feels_like": 22.37,
+    "temp_min": 23.33,
+    "temp_max": 23.33,
+    "pressure": 1020,
+    "humidity": 25,
+    "sea_level": 1020,
+    "grnd_level": 1007
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.25,
+    "deg": 71,
+    "gust": 4.26
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1662812013,
+  "sys": {
+    "country": "RU",
+    "sunrise": 1662777356,
+    "sunset": 1662823516
+  },
+  "timezone": 10800,
+  "id": 571306,
+  "name": "Будённовск",
+  "cod": 200
+}
